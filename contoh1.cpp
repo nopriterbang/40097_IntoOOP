@@ -27,3 +27,7 @@ class Matakuliah{
 
         }
 };
+
+int main() {
+    
+}
